@@ -1,2 +1,18 @@
-
 /* Your CSS Code here. */
+.block{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+}
+
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
