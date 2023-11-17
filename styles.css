@@ -1,10 +1,13 @@
 /* Your CSS Code here. */
+#holder{
+	display: flex;
+	flex-wrap: wrap;
+	
+}
 .block{
-	display: inline-block;
 	width: 100px;
 	height: 100px;
 }
-
 .green{
 	background-color: green;
 }
